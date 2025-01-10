@@ -97,13 +97,13 @@ html, body{
 
 @media (max-width : 650px) {
     #navbar div{
-        right: 5%;
+        right: 2%;
     }
     #navbar img {
         margin: 0 0px;
     }
     #navbar h1{
-        left: 5%;
+        left: 2%;
         font-size: 1.7rem;
     }
     #picture{
