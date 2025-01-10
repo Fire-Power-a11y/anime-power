@@ -67,7 +67,7 @@ html, body{
     margin-right: 50px;
     background-color: aliceblue;
     border-radius: 10px;
-    box-shadow: 5px 0 10px  rgba(230, 69, 41, 0.429);
+
 }
 
 #picture img{
@@ -75,6 +75,7 @@ html, body{
     width: 100%;
     height: auto;
     border-radius: 10px;
+    box-shadow: 5px 0 10px  rgba(230, 69, 41, 0.429);
 }
 
 @media (min-width : 600px ) and (max-width:  1150px) {
