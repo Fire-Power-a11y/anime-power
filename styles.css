@@ -97,14 +97,16 @@ html, body{
 
 @media (max-width : 650px) {
     #navbar div{
+        position: relative;
         right: 2%;
     }
     #navbar img {
         margin: 0 0px;
     }
     #navbar h1{
+        position: relative;
         left: 2%;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     #picture{
         width: 90%;
